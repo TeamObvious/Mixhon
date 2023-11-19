@@ -32,12 +32,11 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►👑 *Tipo De Bot:* _Samurai Bot Premiun_
  ◣━━━━━━━━━━━◢
 
- *« NOTAS »*
+ *« Vs Oficiales »*
  
  ◤━━━━━━━━━━━◥
- *Bot Premium El Mejor*
- *Bot De Todo WhatsApp*
- *Que Esperas Compralo !*
+  ►👑 _${usedPrefix}Vs4_
+  ►👑 _${usedPrefix}Vs8_
  ◣━━━━━━━━━━━◢
  *« MENUS ADICIONALES »*
  
