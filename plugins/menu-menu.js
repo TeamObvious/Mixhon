@@ -38,7 +38,9 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
   ►👑 _${usedPrefix}Vs4_
   ►👑 _${usedPrefix}Vs8_
   ►👑 _${usedPrefix}Infinito_
+  ►👑 _${usedPrefix}Vivido_
  ◣━━━━━━━━━━━◢
+ 
  *« MENUS ADICIONALES »*
  
  ◤━━━━━━━━━━━◥
