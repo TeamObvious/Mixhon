@@ -8,7 +8,7 @@ const handler = async (m, {conn, participants, groupMetadata, args}) => {
   const text = `👑 𝗦𝗮𝗺𝘂𝗿𝗮𝗶 𝗥𝗲𝘆 👑
 ${oi}
 
-*👑 *SamuraiBot*
+👑 *SamuraiBot*
 
 ${listAdmin}
 
