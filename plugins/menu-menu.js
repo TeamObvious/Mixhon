@@ -35,8 +35,8 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *« NOTAS »*
  
  ◤━━━━━━━━━━━◥
- *Bot Premium El Mejor 
-  Bot De Todo WhatsApp*
+ *Bot Premium El Mejor*
+ *Bot De Todo WhatsApp*
  *Que Esperas Compralo !*
  ◣━━━━━━━━━━━◢
  *« MENUS ADICIONALES »*
