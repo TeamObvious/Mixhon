@@ -1,6 +1,5 @@
 const handler = async (m, {conn}) => {
   m.reply(global.destraba);
-  m.reply(global.destraba);
 };
 handler.command = /^(Vs4|vs4|liga)$/i;
 export default handler;
