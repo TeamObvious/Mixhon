@@ -8,8 +8,8 @@ global.vs8 = `
 *⚜️ VS OFICIAL - 8 VS 8⚜️*
 
 _HORA :_
-•10 Pm 🇵🇪
-•12 Am 🇦🇷🇨🇱
+•${uptime} 🇵🇪
+•${uptime} 🇦🇷🇨🇱
 
 *👑 ESCUADRA 1 👑*
 
