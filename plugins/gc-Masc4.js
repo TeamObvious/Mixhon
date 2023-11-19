@@ -8,7 +8,8 @@ global.Masc4 = `
 *⚜️ VS OFICIAL MASC - 4 VS 4 ⚜️*
 
 _HORA :_
-•10 Pm 🇵🇪
+•10 pm 🇵🇪
+•00 am 🇦🇷 🇨🇱
 
 👺 
 👺 
