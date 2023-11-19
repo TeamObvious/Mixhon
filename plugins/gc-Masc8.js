@@ -1,9 +1,9 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.vs8);
+  m.reply(global.Masc8);
 };
-handler.command = /^(Vs8|vs8)$/i;
+handler.command = /^(Masc8|masc8)$/i;
 export default handler;
-global.vs8 = `
+global.Masc8 = `
 *⚜️ VS OFICIAL MASC - 8 VS 8 ⚜️*
 
 *Nota :* _La Hora Editenlo De Acuerdo El Vs_
