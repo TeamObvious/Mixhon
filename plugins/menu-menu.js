@@ -37,8 +37,8 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ◤━━━━━━━━━━━◥
   ►👑 _${usedPrefix}Masc4_
   ►👑 _${usedPrefix}Masc8_
-  ►👑 _${usedPrefix}Infinito_
-  ►👑 _${usedPrefix}Vivido_
+  ►👑 _${usedPrefix}Fem4_
+  ►👑 _${usedPrefix}Fem8_
   ►👑 _${usedPrefix}Mapa_
  ◣━━━━━━━━━━━◢
  
