@@ -5,33 +5,29 @@ handler.command = /^(Fem8|fem8)$/i;
 export default handler;
 
 global.Fem8 = `
-🌸 VS OFICIAL FEM - 8 VS 8 🌸
+8 𝐕𝐄𝐑𝐒𝐔𝐒 8
 
-Nota : La Hora Editenlo De Acuerdo El Vs
+𝐇𝐎𝐑𝐀𝐑𝐈𝐎
+🇵🇪 𝐏𝐄𝐑𝐔 : 
+🇦🇷 𝐀𝐑𝐆𝐄𝐍𝐓𝐈𝐍𝐀 : 
+🇨🇱 𝐂𝐇𝐈𝐋𝐄 :  
+𝐂𝐎𝐋𝐎𝐑 𝐃𝐄 𝐑𝐎𝐏𝐀: 
+¬ 𝐉𝐔𝐆𝐀𝐃𝐎𝐑𝐄𝐒 𝐏𝐑𝐄𝐒𝐄𝐍𝐓𝐄𝐒
 
-HORA :
-•10 pm 🇵🇪
-•00 am 🇦🇷 🇨🇱
+      𝗘𝗦𝗖𝗨𝗔𝗗𝗥𝗔 1
 
-🌸 ESCUADRA 1 🌸
+👑 ┇ 
+🌸 ┇  
+🌸 ┇ 
+🌸 ┇ 
+      
+     𝗘𝗦𝗖𝗨𝗔𝗗𝗥𝗔 2
+👑 ┇ 
+🌸 ┇ 
+🌸 ┇ 
+🌸 ┇ 
 
-🎀
-🎀
-🎀
-🎀
-
-🌸 ESCUADRA 2 🌸
-
-🎀
-🎀
-🎀
-🎀
-
-🌸 SUPLENTES 🌸
-
-🎀
-🎀
-🎀
-🎀
-
+ㅤʚ 𝐒𝐔𝐏𝐋𝐄𝐍𝐓𝐄:
+🌸 ┇ 
+🌸 ┇
 `;
