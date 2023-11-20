@@ -1,7 +1,7 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.Vivido);
+  m.reply(global.Fem8);
 };
-handler.command = /^(Vivido|vivido|Vv2|vv2)$/i;
+handler.command = /^(Fem8|fem8)$/i;
 export default handler;
 
 global.Fem8= `
