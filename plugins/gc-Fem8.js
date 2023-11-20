@@ -4,7 +4,7 @@ const handler = async (m, {conn}) => {
 handler.command = /^(Fem8|fem8)$/i;
 export default handler;
 
-global.Fem8= `
+global.Fem8 = `
 🌸 VS OFICIAL FEM - 8 VS 8 🌸
 
 Nota : La Hora Editenlo De Acuerdo El Vs
