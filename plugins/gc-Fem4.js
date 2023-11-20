@@ -5,22 +5,21 @@ handler.command = /^(Fem4|fem4)$/i;
 export default handler;
 
 global.Fem4 = `
-🌸 VS OFICIAL FEM - 4 VS 4 🌸
+4 𝐕𝐄𝐑𝐒𝐔𝐒 4
 
-Nota : La Hora Editenlo De Acuerdo El Vs
+𝐇𝐎𝐑𝐀𝐑𝐈𝐎
+🇵🇪 𝐏𝐄𝐑𝐔 : 
+🇦🇷 𝐀𝐑𝐆𝐄𝐍𝐓𝐈𝐍𝐀 : 
+🇨🇱 𝐂𝐇𝐈𝐋𝐄 :  
+¬ 𝐉𝐔𝐆𝐀𝐃𝐎𝐑𝐄𝐒 𝐏𝐑𝐄𝐒𝐄𝐍𝐓𝐄𝐒
 
-HORA :
-•10 pm 🇵🇪
-•00 am 🇦🇷 🇨🇱
+🌸 ┇  
+🌸 ┇ 
+🌸 ┇ 
+🌸 ┇ 
 
+ㅤʚ 𝐒𝐔𝐏𝐋𝐄𝐍𝐓𝐄:
 
-🎀 
-🎀 
-🎀 
-🎀 
-
-🌸 SUPLENTES 🌸
-
-🎀
-🎀 
+🌸 ┇ 
+🌸 ┇
 `;
