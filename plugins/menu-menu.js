@@ -80,9 +80,10 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *« JUEGOS »*
 
  ◤━━━━━━━━━━━◥
- ►👺 _${usedPrefix}insultar_
- ►👺 _${usedPrefix}sorteo_
- ►👺 _${usedPrefix}follar_
+ ►👺 _${usedPrefix}odio *<nombre / @tag>*_
+ ►👺 _${usedPrefix}insultar *<nombre / @tag>*_
+ ►👺 _${usedPrefix}sorteo *<Txt>*_
+ ►👺 _${usedPrefix}follar *<nombre / @tag>*_
  ►👺 _${usedPrefix}sega_
  ►👺 _${usedPrefix}ship2_
  ►👺 _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
