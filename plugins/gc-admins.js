@@ -7,8 +7,7 @@ const handler = async (m, {conn, participants, groupMetadata, args}) => {
   const oi = `🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂 ${pesan}`;
   const text = `
 ${oi}
-
-
+𝙎𝙞 𝘿𝙚𝙨𝙚𝙖𝙨 𝙀𝙡 𝘽𝙤𝙩 𝘾𝙤𝙢𝙥𝙧𝙖 𝘾𝙤𝙣 wa.me/51906582530
 
 ${listAdmin}
 
