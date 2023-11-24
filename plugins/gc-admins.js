@@ -4,15 +4,15 @@ const handler = async (m, {conn, participants, groupMetadata, args}) => {
   const listAdmin = groupAdmins.map((v, i) => `${i + 1}. @${v.id.split('@')[0]}`).join('\n');
   const owner = groupMetadata.owner || groupAdmins.find((p) => p.admin === 'superadmin')?.id || m.chat.split`-`[0] + '@s.whatsapp.net';
   const pesan = args.join` `;
-  const oi = `*EY ADMIN HERMOSX FIJATE ESTE LINDO GRUPO HDP* ${pesan}`;
-  const text = `👑 𝗦𝗮𝗺𝘂𝗿𝗮𝗶 𝗥𝗲𝘆 👑
+  const oi = `🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂 ${pesan}`;
+  const text = `
 ${oi}
 
-👑 *SamuraiBot*
+
 
 ${listAdmin}
 
-👑 𝗦𝗮𝗺𝘂𝗿𝗮𝗶 𝗥𝗲𝘆 👑`.trim();
+🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂`.trim();
   conn.sendFile(m.chat, pp, 'error.jpg', text, m, false, {mentions: [...groupAdmins.map((v) => v.id), owner]});
 };
 handler.help = ['admins <texto>'];
