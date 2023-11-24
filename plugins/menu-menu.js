@@ -80,6 +80,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *« JUEGOS »*
 
  ◤━━━━━━━━━━━◥
+ ►👺 _${usedPrefix}cuando_
  ►👺 _${usedPrefix}ship5_
  ►👺 _${usedPrefix}minovi@ *<nombre / @tag>*_
  ►👺 _${usedPrefix}formartrio_
