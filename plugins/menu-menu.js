@@ -81,7 +81,8 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►🦂 _${usedPrefix}abrazo *<nombre / @tag>*_
  ►🦂 _${usedPrefix}cuando_
  ►🦂 _${usedPrefix}ship5_
- ►🦂 _${usedPrefix}minovi@ *<nombre / @tag>*_
+ ►🦂 _${usedPrefix}minovio *<nombre / @tag>*_
+ ►🦂 _${usedPrefix}minovia *<nombre / @tag>*_
  ►🦂 _${usedPrefix}formartrio_
  ►🦂 _${usedPrefix}zodiac *<Txt>*_
  ►🦂 _${usedPrefix}odio *<nombre / @tag>*_
