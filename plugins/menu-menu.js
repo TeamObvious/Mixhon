@@ -35,19 +35,23 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *« Vs Y Reglas »*
  
  ◤━━━━━━━━━━━◥
-  ►🦂 _${usedPrefix}Masc4_
-  ►🦂 _${usedPrefix}Masc8_
-  ►🦂 _${usedPrefix}Masc12_
-  ►🦂 _${usedPrefix}Masc16_
-  ►🦂 _${usedPrefix}Masc20_
-  ►🦂 _${usedPrefix}Masc24_
-  ►🦂 _${usedPrefix}Fem4_
-  ►🦂 _${usedPrefix}Fem8_
-  ►🦂 _${usedPrefix}Fem12_
-  ►🦂 _${usedPrefix}Fem16_
-  ►🦂 _${usedPrefix}Fem20_
-  ►🦂 _${usedPrefix}Fem24_
-  ►🦂 _${usedPrefix}Mapa_
+ ►🦂 _${usedPrefix}LigaMixta_
+ ►🦂 _${usedPrefix}Liga_
+ ►🦂 _${usedPrefix}ScrimMixta_
+ ►🦂 _${usedPrefix}Scrim_
+ ►🦂 _${usedPrefix}Masc4_
+ ►🦂 _${usedPrefix}Masc8_
+ ►🦂 _${usedPrefix}Masc12_
+ ►🦂 _${usedPrefix}Masc16_
+ ►🦂 _${usedPrefix}Masc20_
+ ►🦂 _${usedPrefix}Masc24_
+ ►🦂 _${usedPrefix}Fem4_
+ ►🦂 _${usedPrefix}Fem8_
+ ►🦂 _${usedPrefix}Fem12_
+ ►🦂 _${usedPrefix}Fem16_
+ ►🦂 _${usedPrefix}Fem20_
+ ►🦂 _${usedPrefix}Fem24_
+ ►🦂 _${usedPrefix}Mapa_
  ◣━━━━━━━━━━━◢
  
  *« MENUS ADICIONALES »*
