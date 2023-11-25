@@ -14,7 +14,7 @@ const handler = async (m, {conn, args, command, usedPrefix}) => {
     if (d2ata.urls && d2ata.urls.length > 0) {
       r2es = `${d2ata.urls[0]?.hd || d2ata.urls[1]?.sd || ''}`;
     }
-    conn.sendFile(m.chat, r2es, 'error.mp4', `*[ 📥 ] Descargas - Facebook*\n_---> SAMURAI._`, m);
+    conn.sendFile(m.chat, r2es, 'error.mp4', `*[ 📥 ] Descargas - Facebook*\n_---> 🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂._`, m);
   } catch (err1) {
     try {
       const req = await igeh(args[0]);
@@ -25,29 +25,29 @@ const handler = async (m, {conn, args, command, usedPrefix}) => {
         const Jjson = await Rres.json();
         let VIDEO = Jjson.result[0];
         if (VIDEO == '' || !VIDEO || VIDEO == null) VIDEO = Jjson.result[1];
-        conn.sendFile(m.chat, VIDEO, 'error.mp4', `*[ 📥 ] Descargas - Facebook*\n_---> The Mystic Bot._`, m);
+        conn.sendFile(m.chat, VIDEO, 'error.mp4', `*[ 📥 ] Descargas - Facebook*\n_---> 🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂._`, m);
       } catch (err2) {
         try {
           const ress = await fg.fbdl(args[0]);
           const urll = await ress.data[0].url;
-          await conn.sendFile(m.chat, urll, 'error.mp4', '*[ 📥 ] Descargas - Facebook*\n_---> SAMURAI._', m);
+          await conn.sendFile(m.chat, urll, 'error.mp4', '*[ 📥 ] Descargas - Facebook*\n_---> 🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂._', m);
         } catch (err3) {
           try {
             const res = await fbDownloader(args[0]);
             for (const result of res.download) {
               const ur = result.url;
-              await conn.sendFile(m.chat, ur, 'error.mp4', '*[ 📥 ] Descargas - Facebook*\n_---> SAMURAI._', m);
+              await conn.sendFile(m.chat, ur, 'error.mp4', '*[ 📥 ] Descargas - Facebook*\n_---> 🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂._', m);
             }
           } catch (err4) {
             try {
               const res3 = await fetch(`https://latam-api.vercel.app/api/facebookdl?apikey=nekosmic&q=${args[0]}`);
               const json = await res3.json();
               const url3 = await json.video;
-              await conn.sendFile(m.chat, url3, 'error.mp4', '*[ 📥 ] Descargas - Facebook*\n_---> SAMURAI._', m);
+              await conn.sendFile(m.chat, url3, 'error.mp4', '*[ 📥 ] Descargas - Facebook*\n_---> 🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂._', m);
             } catch (err5) {
               try {
                 const {result} = await facebookdl(args[0]).catch(async (_) => await facebookdlv2(args[0])).catch(async (_) => await savefrom(args[0]));
-                for (const {url, isVideo} of result.reverse()) await conn.sendFile(m.chat, url, `facebook.${!isVideo ? 'bin' : 'mp4'}`, '*[ 📥 ] Descargas - Facebook*\n_---> SAMURAI._', m);
+                for (const {url, isVideo} of result.reverse()) await conn.sendFile(m.chat, url, `facebook.${!isVideo ? 'bin' : 'mp4'}`, '*[ 📥 ] Descargas - Facebook*\n_---> 🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂._', m);
               } catch (err6) {
                 throw `*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*`;
               }
