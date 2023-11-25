@@ -3,6 +3,9 @@ const handler = async (m, {conn}) => {
 };
 handler.command = /^(Fem8|fem8)$/i;
 export default handler;
+handler.admin = true
+handler.group = true
+handler.botAdmin = true
 
 global.Fem8 = `
 8 𝐕𝐄𝐑𝐒𝐔𝐒 8
