@@ -10,7 +10,7 @@ const handler = async (m, {conn, usedPrefix, command, text}) => {
 
   conn.sendMessage(m.chat, {react: {text: '🫂', key: durazno.key}});
 };
-handler.help = ['abrazo @user'];
+handler.help = ['durazno @user'];
 handler.tags = ['fun'];
 handler.command = ['abrazo'];
 handler.group = true;
