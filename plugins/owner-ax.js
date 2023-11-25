@@ -2,8 +2,8 @@ let handler = (m) => m;
 handler.all = async function (m) {
 
 
-  if (/^jesus|jesus|jesus|jesus|jesus|gael$/i.test(m.text)) {
-    var ax = `𝙲𝚁𝙴𝙰𝙳𝙾𝚁 @${global.suittag} 𝚄𝙽 𝙷𝚄𝙼𝙰𝙽𝙾 𝚃𝙴 𝙰 𝙸𝙽𝚅𝙾𝙲𝙰𝙳𝙾`;
+  if (/^yhair|alacran|samurai|owner|cristhofer$/i.test(m.text)) {
+    var ax = `𝙈𝙞 𝘾𝙧𝙚𝙖𝙙𝙤𝙧 𝙀𝙨 𝘾𝙧𝙞𝙨𝙩𝙝𝙤𝙛𝙚𝙧 𝙎𝙞 𝘿𝙚𝙨𝙚𝙖𝙨 𝘾𝙤𝙢𝙥𝙧𝙖𝙧 𝙀𝙨𝙩𝙚 𝘽𝙤𝙩 𝙎𝙪 𝙉𝙪𝙢𝙚𝙧𝙤 𝙀𝙨 : @${global.suittag}`;
 
 
     m.reply(ax, m.chat, { mentions: conn.parseMention(ax)}); 
