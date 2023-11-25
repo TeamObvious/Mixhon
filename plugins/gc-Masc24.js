@@ -8,7 +8,7 @@ handler.group = true
 handler.botAdmin = true
 
 global.Masc24 = `
-24 𝐕𝐄𝐑𝐒𝐔𝐒 24
+𝟮𝟰 𝗩𝗘𝗥𝗦𝗨𝗦 𝟮𝟰
 
 𝐇𝐎𝐑𝐀𝐑𝐈𝐎
 🇵🇪 𝐏𝐄𝐑𝐔 : 
