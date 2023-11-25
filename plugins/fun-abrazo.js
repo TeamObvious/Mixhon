@@ -8,9 +8,9 @@ const handler = async (m, {conn, usedPrefix, command, text}) => {
 
   const abrazo = await conn.reply(m.chat, `@${m.sender.split('@')[0]}  le esta dando un fuerte abrazo a @${who.split('@')[0]} `, m, {mentions: [who, m.sender]});
 
-  conn.sendMessage(m.chat, {react: {text: '🫂', key: durazno.key}});
+  conn.sendMessage(m.chat, {react: {text: '🍑', key: durazno.key}});
 };
-handler.help = ['durazno @user'];
+handler.help = ['nalguear @user'];
 handler.tags = ['fun'];
 handler.command = ['abrazo'];
 handler.group = true;
