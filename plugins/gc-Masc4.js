@@ -3,6 +3,9 @@ const handler = async (m, {conn}) => {
 };
 handler.command = /^(Masc4|masc4|liga)$/i;
 export default handler;
+handler.admin = true
+handler.group = true
+handler.botAdmin = true
 
 global.Masc4 = `
 4 𝐕𝐄𝐑𝐒𝐔𝐒 4
