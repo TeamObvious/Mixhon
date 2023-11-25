@@ -58,7 +58,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  
  ◤━━━━━━━━━━━◥
  ►🦂 _${usedPrefix}labiblia_
- ►🦂 _${usedPrefix}ListaVs_
  ◣━━━━━━━━━━━◢
 
  *« COMANDOS BOT »*
