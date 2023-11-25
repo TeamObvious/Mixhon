@@ -8,7 +8,7 @@ handler.group = true
 handler.botAdmin = true
 
 global.Fem20 = `
-20 𝐕𝐄𝐑𝐒𝐔𝐒 20
+𝟮𝟬 𝗩𝗘𝗥𝗦𝗨𝗦 𝟮𝟬
 
 𝐇𝐎𝐑𝐀𝐑𝐈𝐎
 🇵🇪 𝐏𝐄𝐑𝐔 : 
