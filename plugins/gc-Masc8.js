@@ -3,6 +3,10 @@ const handler = async (m, {conn}) => {
 };
 handler.command = /^(Masc8|masc8)$/i;
 export default handler;
+handler.admin = true
+handler.group = true
+handler.botAdmin = true
+
 global.Masc8 = `
 8 𝐕𝐄𝐑𝐒𝐔𝐒 8
 
