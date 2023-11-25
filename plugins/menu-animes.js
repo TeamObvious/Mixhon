@@ -23,6 +23,8 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ➤ *Hola, ${taguser} Recuerda Que Para Que Funcionen El Bot Debe Ser Admin Del Grupo 🦂*
 
  ◤━━━━━━━━━━━◥
+ ►🦂 _${usedPrefix}LigaMixta5_
+ ►🦂 _${usedPrefix}Liga5_
  ►🦂 _${usedPrefix}LigaMixta_
  ►🦂 _${usedPrefix}Liga_
  ►🦂 _${usedPrefix}ScrimMixta_
