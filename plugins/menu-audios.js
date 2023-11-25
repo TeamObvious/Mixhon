@@ -28,7 +28,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►🦂 _${usedPrefix}Liga_
  ►🦂 _${usedPrefix}ScrimMixta_
  ►🦂 _${usedPrefix}Scrim_
- ►🦂 _${usedPrefix}Masc4_
+ ►🦂 _Masc4_
  ►🦂 _${usedPrefix}Masc8_
  ►🦂 _${usedPrefix}Masc12_
  ►🦂 _${usedPrefix}Masc16_
