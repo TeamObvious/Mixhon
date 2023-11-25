@@ -24,7 +24,7 @@ const handler = async (m, { conn, usedPrefix }) => {
     if (filesDeleted === 0) {
       await conn.sendMessage(m.chat, {text: '*🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂*'}, {quoted: m});
     } else {
-      await conn.sendMessage(m.chat, {text: `* Archivos Eliminaados ${filesDeleted} Por 🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂*`}, {quoted: m});
+      await conn.sendMessage(m.chat, {text: `*Archivos Eliminaados ${filesDeleted} Por 🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂*`}, {quoted: m});
     }
   } catch (err) {
     console.error('Error al leer la carpeta o los archivos de sesión:', err);
