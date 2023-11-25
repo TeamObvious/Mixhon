@@ -9,5 +9,5 @@ let handler = async (m, {conn, text}) => {
 };
 handler.help = ["follar"];
 handler.tags = ["fun"];
-handler.command = /^(coger|violar|follar)$/i;
+handler.command = /^(coger|violar)$/i;
 export default handler;
