@@ -7,7 +7,7 @@ conn.reply(m.chat, link, fkontak, m, {detectLink: true})
 }
 handler.help = ['link']
 handler.tags = ['grupo']
-handler.command = /^link(gro?up)?$/i
+handler.command = /^link?$/i
 handler.group = true
 handler.botAdmin = true
 export default handler
