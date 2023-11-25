@@ -512,7 +512,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `𝙃𝙤𝙡𝙖 𝙀𝙨𝙩𝙖𝙨 𝙑𝙞𝙚𝙣𝙙𝙤 𝙀𝙡 𝙋𝙚𝙧𝙛𝙞𝙡 𝘿𝙚 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 𝘽𝙤𝙩 , 𝙀𝙡 𝙈𝙚𝙟𝙤𝙧 𝘽𝙤𝙩 𝘿𝙚 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 🦂`;
+  const bio = `𝗤𝘂𝗲𝗲𝗲𝗲 𝗢𝘂𝗻𝗻𝗻𝗱𝗮𝗮𝗮𝗮𝗮 𝗩𝗶𝗲𝗷𝗼𝗼 ✌️ 𝗧𝗿𝘂𝗾𝘂𝗶𝘀 ✌️`;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
