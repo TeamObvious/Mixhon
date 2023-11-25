@@ -19,7 +19,7 @@ let handler = async (m, { conn, text, usedPrefix }) => {
 }
 handler.help = ['getpp @user']
 handler.tags = ['group']
-handler.command = /^minovio|minovia$/i
+handler.command = /^minovia$/i
 
 handler.group = true
 
