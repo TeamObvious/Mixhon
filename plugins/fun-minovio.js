@@ -11,7 +11,7 @@ let handler = async (m, { conn, text, usedPrefix }) => {
   } finally {
     let pp = await conn.profilePictureUrl(who, 'image').catch(_ => './src/avatar_contact.png')
     let username = conn.getName(who)
-    let str = `Est@ es mi novi@ a q es precios@?😍🤤 @${who.replace(/@.+/, '')}`
+    let str = `Este Es Mi Novia Es Bello Vrd?🥺🫶🏼 @${who.replace(/@.+/, 'El Mejor Novio Del Mundo 🥺🫶🏼')}`
     let mentionedJid = [who]
 
     conn.sendFile(m.chat, pp, 'pp.jpg', str, m, false, { contextInfo: { mentionedJid }})
@@ -19,7 +19,7 @@ let handler = async (m, { conn, text, usedPrefix }) => {
 }
 handler.help = ['getpp @user']
 handler.tags = ['group']
-handler.command = /^minovio|minovia$/i
+handler.command = /^minovio$/i
 
 handler.group = true
 
