@@ -61,7 +61,8 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *« JUEGOS »*
 
  ◤━━━━━━━━━━━◥
- ►🦂 _${usedPrefix}nalga *<nombre / @tag>*_
+►🦂 _${usedPrefix}nalga *<nombre / @tag>*_
+►🦂 _${usedPrefix}follar *<nombre / @tag>*_
  ►🦂 _${usedPrefix}huevo *<nombre / @tag>*_
  ►🦂 _${usedPrefix}abrazo *<nombre / @tag>*_
  ►🦂 _${usedPrefix}cuando_
@@ -73,7 +74,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►🦂 _${usedPrefix}odio *<nombre / @tag>*_
  ►🦂 _${usedPrefix}insultar *<nombre / @tag>*_
  ►🦂 _${usedPrefix}sorteo *<Txt>*_
- ►🦂 _${usedPrefix}follar *<nombre / @tag>*_
+ ►🦂 _${usedPrefix}violar *<nombre / @tag>*_
  ►🦂 _${usedPrefix}sega_
  ►🦂 _${usedPrefix}ship2_
  ►🦂 _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
