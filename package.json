@@ -1,7 +1,7 @@
 {
-  "name": "Truquis",
+  "name": "Mixhon",
   "version": "1.0.0",
-  "description": "Truquis El Mejor Bot",
+  "description": "Mixhon El Mejor Bot",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/TeamObvious/Truquis",
+  "homepage": "https://github.com/TeamObvious/Mixhon",
   "author": {
     "name": "TeamObvious"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeamObvious/Truquis.git"
+    "url": "git+https://github.com/TeamObvious/Mixhon.git"
   },
   "bugs": {
-    "url": "https://github.com/TeamObvious/Truquis/issues"
+    "url": "https://github.com/TeamObvious/Mixhon/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
